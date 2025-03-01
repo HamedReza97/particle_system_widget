@@ -1,16 +1,5 @@
 # particle_system_widget
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Interactive background for flutter. Can be used on web and other platforms.
+<p align="center"> <img width="400" src= "https://github.com/user-attachments/assets/797917ee-dbfe-4dce-9017-1d6c4957c4a9" /> </p>
+<img width="1312" alt="Screenshot 2025-02-07 at 1 38 59 PM" src="https://github.com/user-attachments/assets/69e8198c-ea98-4027-b416-9b2af803fe9c" />
