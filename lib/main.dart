@@ -12,12 +12,12 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Particle System Widget',
       theme: ThemeData(
-
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        scaffoldBackgroundColor: Colors.black,
         useMaterial3: true,
       ),
       debugShowCheckedModeBanner: false,
-      home: const ParticleSystemWidget(),
+      home: Scaffold(body:  ParticleSystemWidget()),
     );
   }
 }
